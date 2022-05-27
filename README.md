@@ -5,13 +5,11 @@ Clara Barba i Àlex Mata
 </div>
 
 ## EXPLICACIÓ
-***
 <div align="justify">
  El nostre projecte es basa en un dispositiu que controla l’accés a un edifici. Es passa una targeta contactless i el porter de l’edifici accedeix a una web i decideix a qui dona autorització per entrar i a qui no.
 </div> 
 
 ## MATERIAL 
-***
 - Lector de targetes RFID, 
 - Lector de targetes micro SD, 
 - 4 leds (un verd, un groc, un vermell i un blau)
@@ -21,7 +19,6 @@ Clara Barba i Àlex Mata
 - Cables i resisències 
 
 ## FUNCIONAMENT GENERAL
-***
 
 <div align="justify">
 
@@ -41,7 +38,6 @@ Podem veure un vídeo del funcionament del nostre dispositiu en el següent enll
 </div>
 
 ## MUNTATGE DEL HARDWARE
-***
 <div align="justify">
 
 El muntatge l'hem fet sobre una protoboard amb cables fixes sense soldar. En la següent imatge el podem veure:
@@ -84,4 +80,4 @@ Els 4 leds estan connectats en sèrie a una resistència de 330Ohm cadascun d'el
 
 ## EXPLICACIÓ DEL CODI
 El codi ha estat explicat en la presentació oral.
-*** 
+
