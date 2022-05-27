@@ -43,7 +43,7 @@ Podem veure un vídeo del funcionament del nostre dispositiu en el següent enll
 El muntatge l'hem fet sobre una protoboard amb cables fixes sense soldar. En la següent imatge el podem veure:
 </div>
 
-![Muntatge del dispositiu](/imatges/muntatge.jpeg)
+![Muntatge del dispositiu](/images/muntatge.jpeg)
 
 <div align="justify">
 Hem intentat utilitzar tots els pins possibles de la mateixa banda del ESP32 per simplificar el muntatge. Hem seguit la següent assignació de pins:
