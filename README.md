@@ -15,7 +15,7 @@ Clara Barba i Àlex Mata
 - 4 leds (un verd, un groc, un vermell i un blau)
 - Buzzer 
 - Display
-- Microprocessador ESP32  
+- Microcontrolador ESP32  
 - Cables i resisències 
 
 ## FUNCIONAMENT GENERAL
