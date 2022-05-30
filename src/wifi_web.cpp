@@ -4,8 +4,8 @@
 #include "FS.h"
 #include "SD.h"
  
-const char* ssid = "huawei_clara";
-const char* password =  "608838558";
+const char* ssid = "";
+const char* password =  "";
 
 extern String user;
 extern String id;
