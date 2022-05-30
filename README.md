@@ -32,8 +32,8 @@ Sota aquest requadre hi ha dos botons, un per autoritzar l'accés i un per deneg
 
 Mentre el porter no respon a la sol·licitud d'accés s'il·lumina el led groc, per indicar que no es passin més targetes perquè s'està esperant una autorització. Quan s'apaga el led groc i el display mostra *Passi la targeta* ja es pot tornar a passar la següent targeta. 
 
-Podem veure un vídeo del funcionament del nostre dispositiu en el següent enllaç: 
-**[Vídeo Muntatge](https://drive.google.com/file/d/1DXv9dDXb7zCLm_fVEkN5MAoQOyZVDbf4/view?usp=sharing )**.
+Podem veure un vídeo del funcionament del nostre dispositiu en el següent enllaç (s'ha de tenir iniciada la sessió amb un usuari acabat en upc.edu): 
+**[Vídeo Muntatge](https://drive.google.com/file/d/1pzFJVWz_hFV1n4RLKkwMSOhje1t7S8u9/view?usp=sharing)**.
 
 </div>
 
