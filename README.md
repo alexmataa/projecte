@@ -10,9 +10,9 @@ Clara Barba i Àlex Mata
 </div> 
 
 ## MATERIAL 
-- Lector de targetes RFID, 
-- Lector de targetes micro SD, 
-- 4 leds (un verd, un groc, un vermell i un blau)
+- Lector de targetes RFID
+- Lector de targetes micro SD 
+- 4 leds (verd, groc, vermell i blau)
 - Buzzer 
 - Display
 - Microcontrolador ESP32  
